@@ -1,4 +1,4 @@
-### Hitting the sweet spot of inspiration
+# Hitting the sweet spot of inspiration
 
 Before I tell my story, I want to use a sentence to introduce myself, as this is my first Medium post. My name is Christoffer Winterkvist, I work as an iOS Developer together with a team of super talented individuals at Hyper, located in the heart of Oslo. Enough about me, lets get this show on the road.
 
