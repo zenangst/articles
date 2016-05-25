@@ -48,7 +48,7 @@ Now that I’ve shared my story, shamelessly promoted our work, I’d like to gi
 
 Thank you for reading.
 
-You can find me on Twitter @zenangst and on GitHub
+You can find me on Twitter [@zenangst](https://twitter.com/zenangst) and on [GitHub](https://github.com/zenangst)
 
 **References**
 
