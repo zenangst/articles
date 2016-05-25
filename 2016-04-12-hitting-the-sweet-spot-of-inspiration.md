@@ -1,10 +1,10 @@
-### Hitting the sweet spot of inspiration
+# Hitting the sweet spot of inspiration
 
 Before I tell my story, I want to use a sentence to introduce myself, as this is my first Medium post. My name is Christoffer Winterkvist, I work as an iOS Developer together with a team of super talented individuals at Hyper, located in the heart of Oslo. Enough about me, lets get this show on the road.
 
 In the beginning of October of 2015, our mobile development team went on a small trip to Krakow to attend that years MobiConf. We chose MobiConf because it covered both our platforms, iOS and Android. It was also a brilliant opportunity to get to know each other better across teams, and that turned out to be one of the greatest things about the entire trip. High profile people in the industry was in the lineup of speakers, people like John Sundell, Ash Furrow and Marin Todorov. This helped to reassure us that we wouldn’t go home empty handed. Kevin Goldsmith started off by talking about his time at Microsoft, Adobe and how Spotify was a breath of fresh air. He later talked about how Spotify organized themselves to achieve an autonomous relationship across teams, how they fuel innovation and gain velocity. This was all really interesting, so interesting that I couldn’t help myself to ask questions after the talk was over. However, it wasn’t inspiring, not in the way that I wanted anyway.
 
-## insert image 1 here
+![MobiConf 2015](https://raw.githubusercontent.com/zenangst/articles/master/images/2016-04-12-hitting-the-sweet-spot-of-inspiration-1.jpeg)
 
 When we walked home from the conference the first day, I couldn’t but help to feel a bit “cheated”, for the lack of a better word. Not to say that there weren’t good speakers or interesting topics. Don’t get me wrong, I’m not throwing faeces at neither MobiConf or the speakers that year, I’m sure that people learned a whole lot from many of the talks but this was not what I had hoped for, I was hoping to be inspired.
 
@@ -22,7 +22,7 @@ Again, couldn’t help myself from asking a few questions afterwards. I walked a
 
 This was an extension of the first talk and focused on the subtopics that I found most intriguing, it was tailored to my curiosity. When MobiConf was over, I couldn’t stop talking about it and all the possibilities! It sparked a creative flare in my developer soul. We went out to grab a last supper before heading home to Viking-land the next morning. Talks continued but soon shifted over into more social small talk, the context had shifted.
 
-## insert image 2 here
+![Strolling in Krakow](https://raw.githubusercontent.com/zenangst/articles/master/images/2016-04-12-hitting-the-sweet-spot-of-inspiration-2.jpeg)
 
 The next morning my mind and body went into semi-auto pilot like they usual do when you’re heading home from abroad. It all went smooth until I sat down in the airplane seat, where I usually just chill until I eventually fall asleep (yeah I’m one of those a-holes who can sleep on airplanes) But I didn’t this time. Something was different. I started thinking about yesterday’s creative flare, the spark of inspiration and about past contexts. I reiterated over everything that I had seen and learned, everything still made sense as the context was still intact. This is how I knew that something was in the making.
 
@@ -34,7 +34,7 @@ When a mumbling voice appeared over the speakers I didn’t pay much attention t
 
 A renaming took place when we decided to give credit to the people who inspired us to build it in the first place. The most fitting name that we could come up with was Spots. As you might already have figured out, this is an homage but it also works semantically. A spot can have many variations, they come in all kinds of sizes, they can be stacked, lined up or come in a form of a grid. We tried it out for a while and the name just stuck.
 
-## insert image 3 here
+![Spots by @hyperoslo](https://raw.githubusercontent.com/zenangst/articles/master/images/2016-04-12-hitting-the-sweet-spot-of-inspiration-3.png)
 
 Without going into too much technical detail, Spots is a subclass of UIViewController. What makes Spots great is that it infers a reusable and generic pattern when building applications. You don’t need to build data sources for looking up which cells should map what data. The generic view model that comes bundled with Spots can be used for anything that conforms to a specific protocol. This opens up for all kinds of possibilities, like refactoring a view to be a grid instead of a list, with minimal amount of effort. Or having different layout depending on what kind is specified on the model. It also supports preprocessing of view heights and height caching for increased performance. This comes in handy when building views with dynamic heights, like a chat or a feed. Last but not least, because of its internal architecture, it can parse JSON into native UI. This makes Spots incredibly flexible and the possibilities seem endless, you can move view models into the cloud, speed up development by working in a playground while you creating your views, or for mocking UI tests.
 
@@ -48,13 +48,13 @@ Now that I’ve shared my story, shamelessly promoted our work, I’d like to gi
 
 Thank you for reading.
 
-You can find me on Twitter @zenangst and on GitHub
+You can find me on Twitter [@zenangst](https://twitter.com/zenangst) and on [GitHub](https://github.com/zenangst)
 
 **References**
 
-[Spots by @hyperoslo](https://github.com/hyperoslo/Spots)
-[Compass by @hyperoslo](https://github.com/hyperoslo/Compass)
-[Brick by @hyperoslo](https://github.com/hyperoslo/Brick)
+- [Spots by @hyperoslo](https://github.com/hyperoslo/Spots)
+- [Compass by @hyperoslo](https://github.com/hyperoslo/Compass)
+- [Brick by @hyperoslo](https://github.com/hyperoslo/Brick)
 
 **Fun facts**
 - 90% of this article was written on a bus and/or subway, on my way to or from work, using Notes on iOS.
