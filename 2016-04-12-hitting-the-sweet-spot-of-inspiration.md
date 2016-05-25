@@ -22,7 +22,7 @@ Again, couldn’t help myself from asking a few questions afterwards. I walked a
 
 This was an extension of the first talk and focused on the subtopics that I found most intriguing, it was tailored to my curiosity. When MobiConf was over, I couldn’t stop talking about it and all the possibilities! It sparked a creative flare in my developer soul. We went out to grab a last supper before heading home to Viking-land the next morning. Talks continued but soon shifted over into more social small talk, the context had shifted.
 
-## insert image 2 here
+<img src="https://raw.githubusercontent.com/zenangst/articles/master/images/2016-04-12-hitting-the-sweet-spot-of-inspiration-2.jpeg" align="left">
 
 The next morning my mind and body went into semi-auto pilot like they usual do when you’re heading home from abroad. It all went smooth until I sat down in the airplane seat, where I usually just chill until I eventually fall asleep (yeah I’m one of those a-holes who can sleep on airplanes) But I didn’t this time. Something was different. I started thinking about yesterday’s creative flare, the spark of inspiration and about past contexts. I reiterated over everything that I had seen and learned, everything still made sense as the context was still intact. This is how I knew that something was in the making.
 
@@ -34,7 +34,7 @@ When a mumbling voice appeared over the speakers I didn’t pay much attention t
 
 A renaming took place when we decided to give credit to the people who inspired us to build it in the first place. The most fitting name that we could come up with was Spots. As you might already have figured out, this is an homage but it also works semantically. A spot can have many variations, they come in all kinds of sizes, they can be stacked, lined up or come in a form of a grid. We tried it out for a while and the name just stuck.
 
-## insert image 3 here
+<img src="https://raw.githubusercontent.com/zenangst/articles/master/images/2016-04-12-hitting-the-sweet-spot-of-inspiration-3.jpeg">
 
 Without going into too much technical detail, Spots is a subclass of UIViewController. What makes Spots great is that it infers a reusable and generic pattern when building applications. You don’t need to build data sources for looking up which cells should map what data. The generic view model that comes bundled with Spots can be used for anything that conforms to a specific protocol. This opens up for all kinds of possibilities, like refactoring a view to be a grid instead of a list, with minimal amount of effort. Or having different layout depending on what kind is specified on the model. It also supports preprocessing of view heights and height caching for increased performance. This comes in handy when building views with dynamic heights, like a chat or a feed. Last but not least, because of its internal architecture, it can parse JSON into native UI. This makes Spots incredibly flexible and the possibilities seem endless, you can move view models into the cloud, speed up development by working in a playground while you creating your views, or for mocking UI tests.
 
