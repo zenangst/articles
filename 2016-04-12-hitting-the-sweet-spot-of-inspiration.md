@@ -4,7 +4,7 @@ Before I tell my story, I want to use a sentence to introduce myself, as this is
 
 In the beginning of October of 2015, our mobile development team went on a small trip to Krakow to attend that years MobiConf. We chose MobiConf because it covered both our platforms, iOS and Android. It was also a brilliant opportunity to get to know each other better across teams, and that turned out to be one of the greatest things about the entire trip. High profile people in the industry was in the lineup of speakers, people like John Sundell, Ash Furrow and Marin Todorov. This helped to reassure us that we wouldn’t go home empty handed. Kevin Goldsmith started off by talking about his time at Microsoft, Adobe and how Spotify was a breath of fresh air. He later talked about how Spotify organized themselves to achieve an autonomous relationship across teams, how they fuel innovation and gain velocity. This was all really interesting, so interesting that I couldn’t help myself to ask questions after the talk was over. However, it wasn’t inspiring, not in the way that I wanted anyway.
 
-<img src="https://github.com/zenangst/2016-04-12-hitting-the-sweet-spot-of-inspiration-1.jpeg">
+<img src="https://github.com/zenangst/images/2016-04-12-hitting-the-sweet-spot-of-inspiration-1.jpeg">
 
 When we walked home from the conference the first day, I couldn’t but help to feel a bit “cheated”, for the lack of a better word. Not to say that there weren’t good speakers or interesting topics. Don’t get me wrong, I’m not throwing faeces at neither MobiConf or the speakers that year, I’m sure that people learned a whole lot from many of the talks but this was not what I had hoped for, I was hoping to be inspired.
 
