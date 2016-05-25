@@ -52,9 +52,9 @@ You can find me on Twitter @zenangst and on GitHub
 
 **References**
 
-[Spots by @hyperoslo](https://github.com/hyperoslo/Spots)
-[Compass by @hyperoslo](https://github.com/hyperoslo/Compass)
-[Brick by @hyperoslo](https://github.com/hyperoslo/Brick)
+- [Spots by @hyperoslo](https://github.com/hyperoslo/Spots)
+- [Compass by @hyperoslo](https://github.com/hyperoslo/Compass)
+- [Brick by @hyperoslo](https://github.com/hyperoslo/Brick)
 
 **Fun facts**
 - 90% of this article was written on a bus and/or subway, on my way to or from work, using Notes on iOS.
