@@ -4,7 +4,7 @@ Before I tell my story, I want to use a sentence to introduce myself, as this is
 
 In the beginning of October of 2015, our mobile development team went on a small trip to Krakow to attend that years MobiConf. We chose MobiConf because it covered both our platforms, iOS and Android. It was also a brilliant opportunity to get to know each other better across teams, and that turned out to be one of the greatest things about the entire trip. High profile people in the industry was in the lineup of speakers, people like John Sundell, Ash Furrow and Marin Todorov. This helped to reassure us that we wouldn’t go home empty handed. Kevin Goldsmith started off by talking about his time at Microsoft, Adobe and how Spotify was a breath of fresh air. He later talked about how Spotify organized themselves to achieve an autonomous relationship across teams, how they fuel innovation and gain velocity. This was all really interesting, so interesting that I couldn’t help myself to ask questions after the talk was over. However, it wasn’t inspiring, not in the way that I wanted anyway.
 
-![MobiConf 2015](https://raw.githubusercontent.com/zenangst/articles/master/images/2016-04-12-hitting-the-sweet-spot-of-inspiration-1.png)
+![MobiConf 2015](https://raw.githubusercontent.com/zenangst/articles/master/images/2016-04-12-hitting-the-sweet-spot-of-inspiration-1.jpeg)
 
 When we walked home from the conference the first day, I couldn’t but help to feel a bit “cheated”, for the lack of a better word. Not to say that there weren’t good speakers or interesting topics. Don’t get me wrong, I’m not throwing faeces at neither MobiConf or the speakers that year, I’m sure that people learned a whole lot from many of the talks but this was not what I had hoped for, I was hoping to be inspired.
 
@@ -22,7 +22,7 @@ Again, couldn’t help myself from asking a few questions afterwards. I walked a
 
 This was an extension of the first talk and focused on the subtopics that I found most intriguing, it was tailored to my curiosity. When MobiConf was over, I couldn’t stop talking about it and all the possibilities! It sparked a creative flare in my developer soul. We went out to grab a last supper before heading home to Viking-land the next morning. Talks continued but soon shifted over into more social small talk, the context had shifted.
 
-![Strolling in Krakow](https://raw.githubusercontent.com/zenangst/articles/master/images/2016-04-12-hitting-the-sweet-spot-of-inspiration-2.png)
+![Strolling in Krakow](https://raw.githubusercontent.com/zenangst/articles/master/images/2016-04-12-hitting-the-sweet-spot-of-inspiration-2.jpeg)
 
 The next morning my mind and body went into semi-auto pilot like they usual do when you’re heading home from abroad. It all went smooth until I sat down in the airplane seat, where I usually just chill until I eventually fall asleep (yeah I’m one of those a-holes who can sleep on airplanes) But I didn’t this time. Something was different. I started thinking about yesterday’s creative flare, the spark of inspiration and about past contexts. I reiterated over everything that I had seen and learned, everything still made sense as the context was still intact. This is how I knew that something was in the making.
 
