@@ -22,6 +22,8 @@ We also found solace in that we weren’t the first ones to do this.
 The first modification that we had to apply to our existing workflow was to speed up the process of creating a new component. The logical first step of improving it was to start linearly by making a convention that all components should conform to, a well structured project template with some fairy & Ruby magic sprinkled on it. That turned out to be just the thing to solve this problem. To add a bit of customization, the script asks for a few parameters before applying its magic.
 The mundane first step was now a thing of the past.
 
+## Think different
+
 The biggest impact it had on our existing workflow was that we no longer worked in a self contained project. There were a lot of jumping back and forward at first. We improved this by adding example projects to the component repository to reduce the jumping. We didn’t know it at the time but there were more benefits to be had with that change.
 Because some of our projects are large, they take some time to compile and by just working in a demo, development became rather swift (pun intended). This also ensured that the component could work on its own outside of our project, by freeing us from our own bounds we started thinking in different ways. The best way of describing it would be the to compare it to something relatable to everyone.
 
