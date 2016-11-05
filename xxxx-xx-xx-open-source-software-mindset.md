@@ -25,7 +25,7 @@ The mundane first step was now a thing of the past.
 ## Think different
 
 The biggest impact it had on our existing workflow was that we no longer worked in a self contained project. There were a lot of jumping back and forward at first. We improved this by adding example projects to the component repository to reduce the jumping. We didn’t know it at the time but there were more benefits to be had with that change.
-Because some of our projects are large, they take some time to compile and by just working in a demo, development became rather swift (pun intended). This also ensured that the component could work on its own outside of our project, by freeing us from our own bounds we started thinking in different ways. The best way of describing it would be the to compare it to something relatable to everyone.
+Some of our projects are large, as in, 5-6 minutes Swift compile-time large. So by moving the main development into the component and example projects, we could get the job done faster. This also ensured that the component could work on its own outside of our project, by freeing us from our own bounds we started thinking in different ways. The best way of describing it would be the to compare it to something relatable to everyone.
 
 Think of it like a newly purchased box of LEGO's, instead of just building the illustration on the box, we could start tinkering and modifying the individual pieces, shaping them into a polymorphic entity which made them fit into combinations that seemed impossible before. Like turning an airplane into a space craft, the sky was no longer the limit.
 
